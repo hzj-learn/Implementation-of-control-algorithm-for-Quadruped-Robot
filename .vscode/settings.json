@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.txt": "cpp",
+        "*.ipp": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cmake.configureOnOpen": true
+}
